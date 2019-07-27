@@ -2659,7 +2659,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #8cd1a8;
+			background-color: #e26715;
 			border: 0;
 			box-shadow: none;
 			color: #ffffff !important;
@@ -2784,9 +2784,9 @@ input, select, textarea {
 			width: 4em;
 		}
 
-			/* .main .goto-next:hover {
+			.main .goto-next:hover {
 				background-color: rgba(144, 144, 144, 0.15);
-			} */
+			}
 
 /* Header */
 
