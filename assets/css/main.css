@@ -351,6 +351,14 @@ pre code {
   overflow-x: auto;
 }
 
+.projectimg {
+  width: 100px;
+}
+
+.cw {
+  color: rgb(208, 108, 32);
+}
+
 .align-left {
   text-align: left;
 }
